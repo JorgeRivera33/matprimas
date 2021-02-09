@@ -22,7 +22,6 @@ function escalarAplicacion(){
 		}else{
 			console.log("No se ha definido objeto para escalar");
 		}	
-		recalcularPosicion();
 	}	
 }
 
